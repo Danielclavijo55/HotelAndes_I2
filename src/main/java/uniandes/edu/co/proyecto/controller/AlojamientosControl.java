@@ -58,3 +58,4 @@ public class AlojamientosControl {
         alojamientoRepo.eliminarAlojamiento(id);
         return "redirect:/alojamientos";
 }
+}
